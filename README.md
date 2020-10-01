@@ -1,4 +1,4 @@
-# my-first-game"created by Abhishek Tiwari"
+# my-first-game"created by amit"
 import random
 import curses
 
